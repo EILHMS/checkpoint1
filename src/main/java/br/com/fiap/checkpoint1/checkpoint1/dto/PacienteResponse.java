@@ -1,4 +1,4 @@
-package br.com.fiap.checkpoint1.dto;
+package br.com.fiap.checkpoint1.checkpoint1.dto;
 
 import br.com.fiap.checkpoint1.checkpoint1.model.Paciente;
 

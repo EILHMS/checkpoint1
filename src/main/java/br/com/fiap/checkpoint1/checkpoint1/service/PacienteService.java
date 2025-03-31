@@ -6,9 +6,9 @@ import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
+import br.com.fiap.checkpoint1.checkpoint1.dto.PacienteRequestCreate;
+import br.com.fiap.checkpoint1.checkpoint1.dto.PacienteRequestUpdate;
 import br.com.fiap.checkpoint1.checkpoint1.model.Paciente;
-import br.com.fiap.checkpoint1.dto.PacienteRequestCreate;
-import br.com.fiap.checkpoint1.dto.PacienteRequestUpdate;
 
 @Service
 public class PacienteService {

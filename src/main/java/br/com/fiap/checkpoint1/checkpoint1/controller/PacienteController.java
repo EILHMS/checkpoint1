@@ -14,10 +14,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import br.com.fiap.checkpoint1.checkpoint1.dto.PacienteRequestCreate;
+import br.com.fiap.checkpoint1.checkpoint1.dto.PacienteRequestUpdate;
+import br.com.fiap.checkpoint1.checkpoint1.dto.PacienteResponse;
 import br.com.fiap.checkpoint1.checkpoint1.service.PacienteService;
-import br.com.fiap.checkpoint1.dto.PacienteRequestCreate;
-import br.com.fiap.checkpoint1.dto.PacienteRequestUpdate;
-import br.com.fiap.checkpoint1.dto.PacienteResponse;
 
 @RestController
 @RequestMapping("paciente")
